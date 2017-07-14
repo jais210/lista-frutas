@@ -8,5 +8,7 @@
 ### 6 Luego, hay que vincular mi respositorio con mi carpeta local para guardar todos los cambios que se están haciendo
 ### 7 Una vez vinculados, solo hay que commitear y pusher cada vez que modifiquemos un archivo en javascript, HTML o CCS
 ### 8 Finalmente así es como quedó mi página :) 
-! [Alt-Text] (pagina.png)
+
+
+![Alt-text](pagina.png)
 
