@@ -1,2 +1,4 @@
 # lista-frutas
-## *primero cree mis carpetas de trabajo*
+## *1 Empecemos!!!*
+## 2 Crear una carpeta, a la cual pudes llamar "EjerciciosFrutas"
+##
